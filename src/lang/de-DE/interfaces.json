@@ -416,7 +416,7 @@
 		},
 		"preview": {
 			"preview": "Vorschau",
-			"url_template": "URL Template",
+			"url_template": "URL Vorlage",
 			"url_template_comment": "A mustache template for a URL to preview content",
 			"preview_item": "Vorschau dieses Elements"
 		},
@@ -519,14 +519,14 @@
 			"icon_right_comment": "Optionales Icon, für Anzeige links neben der Eingabe",
 			"validation": "Validierung",
 			"validation_comment": "A RegEx to check each individual value against",
-			"validation_message": "Validation Message",
+			"validation_message": "Fehlermeldung",
 			"validation_message_comment": "A short message to show users if tag validation fails",
 			"validation_message_default": "Bitte gültigen Tag eingeben"
 		},
 		"text-input": {
-			"input": "Text Input",
+			"input": "Texteingabe",
 			"placeholder": "Platzhalter",
-			"trim": "Trim",
+			"trim": "Beschneiden",
 			"trim_comment": "Trim surrounding whitespace from the value before saving",
 			"char_count": "Zeige Zeichenanzahl",
 			"char_count_comment": "Show the remaining characters available",
@@ -534,7 +534,7 @@
 			"icon_left_comment": "Optionales Icon, für Anzeige links neben der Eingabe",
 			"icon_right": "Icon rechts",
 			"icon_right_comment": "Optionales Icon, für Anzeige links neben der Eingabe",
-			"format": "Pretty Output",
+			"format": "Vorschau",
 			"format_comment": "Convert the value to title case",
 			"monospace": "Monospace",
 			"monospace_comment": "Monospace-Schrift verwenden",
@@ -553,7 +553,7 @@
 			"serif_comment": "Use a larger, serif typeface"
 		},
 		"time": {
-			"time": "Time",
+			"time": "Zeit",
 			"include_seconds": "Include seconds",
 			"include_seconds_comment": "Include seconds in the interface",
 			"24hour": "Display 24 hour clock",
