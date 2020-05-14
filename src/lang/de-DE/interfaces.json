@@ -518,7 +518,7 @@
 			"icon_right": "Icon rechts",
 			"icon_right_comment": "Optionales Icon, für Anzeige links neben der Eingabe",
 			"validation": "Validierung",
-			"validation_comment": "A RegEx to check each individual value against",
+			"validation_comment": "Ein RegEx um jeden einzelnen Wert zu überprüfen",
 			"validation_message": "Fehlermeldung",
 			"validation_message_comment": "A short message to show users if tag validation fails",
 			"validation_message_default": "Bitte gültigen Tag eingeben"
@@ -554,8 +554,8 @@
 		},
 		"time": {
 			"time": "Zeit",
-			"include_seconds": "Include seconds",
-			"include_seconds_comment": "Include seconds in the interface",
+			"include_seconds": "Sekunden einbeziehen",
+			"include_seconds_comment": "Sekunden in der Schnittstelle einbeziehen",
 			"24hour": "Display 24 hour clock",
 			"24hour_comment": "Show the time in 24-hour format (eg.: 15:30)"
 		},
@@ -575,15 +575,15 @@
 			"text-inactive-placeholder": "Geben Sie hier Ihren Text ein",
 			"icon-inactive-name": "Inaktives Icon",
 			"icon-inactive-comment": "Choose an inactive icon",
-			"color-inactive-name": "Inactive Color",
-			"color-inactive-comment": "Choose the inactive color",
+			"color-inactive-name": "Inaktive Farbe",
+			"color-inactive-comment": "Wählen Sie die inaktive Farbe",
 			"text-active-name": "Aktiver Text",
-			"text-active-comment": "Text next to the active icon",
+			"text-active-comment": "Text neben dem aktiven Icon",
 			"text-active-placeholder": "Geben Sie hier Ihren Text ein",
-			"icon-active-name": "Active Icon",
-			"icon-active-comment": "Choose an active icon",
+			"icon-active-name": "Aktives Icon",
+			"icon-active-comment": "Wähle ein aktives Icon aus",
 			"color-active-name": "Aktive Farbe",
-			"color-active-comment": "Choose the active color"
+			"color-active-comment": "Wähle die aktive Farbe aus"
 		},
 		"translation": {
 			"translation": "Übersetzung",
